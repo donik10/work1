@@ -1,0 +1,50 @@
+.button{
+color: rgb(215, 165, 3);
+width: 239px;
+text-align: center;
+height: 30px;
+padding: 2px 5px 2px 5px;
+}
+.box1{
+    background-color: rgb(221, 184, 0);
+}
+.text1{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.box2{
+    background-color: rgb(163, 163, 163);
+    padding: 3px 5px 3px 5px;
+}
+.box11{
+    background-color: white;
+    width: 390px;
+    margin: 10px 5px 10px 10px;
+}
+.box3{
+    display: flex;
+    background-color: rgb(107, 107, 107);
+    padding: 4px 3px 4px 4px;
+    width: 100%;
+}
+.foto{
+    width: 333px;
+    padding: 8px 8px 8px 8px;
+}
+.textp{
+    padding-left: 15px;
+    font-size: 22px;
+}
+.button1{
+    width: 330px;
+    margin: 0px 8px 8px 8px;
+    height: 30px;
+    font-size: 10px;
+}
+.text9{
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
